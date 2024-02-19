@@ -4,8 +4,7 @@
 <!--
 **anishghimire603/anishghimire603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Anish Ghimire from Nepal 🇳🇵.
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology(Bsc.CSIT).
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Nakwon Yoon from Korea🇳🇵.
 - 🌱 I’m currently learning Full-Stack Development, 3D modeling, ML and IOT.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Web, 3D, Ml & IOT Technologies.
@@ -30,11 +29,11 @@
 
 **I am Into ,**
 
-**Web, 3D, Ml & IOT**
+**Web, React, 3D**
 <br />
 
 
-![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=anishghimire603&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Nakwon Yoon Github Stats](https://github-readme-stats.vercel.app/api?username=Nakwonyoon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br /> 
 
