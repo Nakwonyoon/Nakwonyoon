@@ -38,8 +38,8 @@
 
 - 📫 How to reach me:<br>
 
-<a href = "https://www.linkedin.com/in/anish-ghimire-4b872715a/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
+<a href = "https://www.linkedin.com/in/nakwon-yoon-39099616a/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+<a href = ""><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 
 *************
 
