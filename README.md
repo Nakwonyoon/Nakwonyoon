@@ -12,5 +12,8 @@
 <a href="https://github.com/victorabarros?tab=repositories">
   <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=victorabarros&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
 </a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ⭐️ From [Nakwonyoon](https://github.com/Nakwonyoon)
