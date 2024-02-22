@@ -15,7 +15,6 @@ I am Nakwon Yoon. I am a 👨‍💻 frontend developer, an avid learner who is 
 
 ### 📫 How to reach me:
 - Email : yoonnw1000@gmail.com
-- Twitter : [@WankhadeRutik](https://twitter.com/WankhadeRutik)
-- Portfolio : [rutikwankhade.dev](https://rutikwankhade.dev) 
 
-`⭐️ From [rutikwankhade](https://github.com/[rutikwankhade])`
+
+`⭐️ From [Nakwon Yoon](https://github.com/[Nakwonyoon])`
