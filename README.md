@@ -9,7 +9,7 @@ I am Nakwon Yoon. I am a 👨‍💻 frontend developer, an avid learner who is 
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nakwonyoon&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+![Mark's stats](https://github-readme-stats.vercel.app/api?username=nakwonyoon&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakwonyoon&layout=compact)](https://github.com/nakwonyoon/github-readme-stats)
 
 
