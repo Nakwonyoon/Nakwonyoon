@@ -17,4 +17,3 @@ I am Nakwon Yoon. I am a 👨‍💻 frontend developer, an avid learner who is 
 - Email : yoonnw1000@gmail.com
 
 
-`⭐️ From [Nakwon Yoon](https://github.com/[Nakwonyoon])`
